@@ -1,4 +1,5 @@
-application: "friday"
+application: "friday-205908"
+version: 0
 runtime: go
 api_version: go1
 
