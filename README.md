@@ -19,10 +19,29 @@
 
 ```
 connect datastore
-deploy appengine
 set authentication
 create docker env
 enable facebook login
 How get cource?
 how confirm user is correct student?
+```
+
+## setup!
+
+#### install packages
+
+```
+dep ensure
+```
+
+#### serve at local
+
+```
+goapp serve ./appengine/
+```
+
+#### deploy app
+
+```
+goapp deploy appengine/
 ```
