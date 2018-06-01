@@ -11,17 +11,17 @@
 5. github
 6. editorconfig
 7. git
+8. create server
+9. use dep: package manage tool
 ```
 
 ## Todo
 
 ```
-create server
 connect datastore
 deploy appengine
 set authentication
 create docker env
-use dep: package manage tool
 enable facebook login
 How get cource?
 how confirm user is correct student?
